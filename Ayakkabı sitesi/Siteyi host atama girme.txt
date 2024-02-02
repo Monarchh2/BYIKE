@@ -1,0 +1,21 @@
+
+Firezilla üzerinden sorunsuz giriş yapabilmek için indiriyoruz.
+
+host bilgileri girildikten sonra public_html klasörünün içine girip tüm dosyaları 
+buraya atacağız
+
+Cpanel üzerinden giriş bilgileriyle giriyoruz
+
+Msquel veritabanı sihirbazı üzerinden veritabanı oluşturuyoruz oluşturduğumuz veritabını atamak için yeniden c panel üzerinden phpmyadmine girip veritanbanımızı içeri aktarıyoruz
+
+Dreamwiawerden giriş yaptıktan sonra ayakkabı/admin/netting/bağlan.php 
+
+Database ismi değişicek kullanıcaya göre
+
+"root" yazan yere localhost kullanıcı adı geliyor
+
+"mysql"yazan yere localhost şifre geliyor
+
+Firezilla site dosyalarını atıktan sonra 
+
+Sonra açtığımız cpanlede açtığımız kullanıcı adı ve şifreyi bağlan.php üzerinden değiştiriyoruz ve giriyoruz.
