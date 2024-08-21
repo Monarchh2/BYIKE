@@ -6,7 +6,7 @@ buraya atacağız
 
 Cpanel üzerinden giriş bilgileriyle giriyoruz
 
-Msquel veritabanı sihirbazı üzerinden veritabanı oluşturuyoruz oluşturduğumuz veritabını atamak için yeniden c panel üzerinden phpmyadmine girip veritanbanımızı içeri aktarıyoruz
+MySql veritabanı sihirbazı üzerinden veritabanı oluşturuyoruz oluşturduğumuz veritabını atamak için yeniden c panel üzerinden phpmyadmine girip veritanbanımızı içeri aktarıyoruz
 
 Dreamwiawerden giriş yaptıktan sonra ayakkabı/admin/netting/bağlan.php 
 
